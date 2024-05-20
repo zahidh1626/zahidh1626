@@ -1,13 +1,11 @@
 ### Hi there 👋
+#### 🌟 Experienced MERN-Stack Engineer Ready to Build 🌟
 
-**zahidh1626/zahidh1626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a MERN-Stack Engineer with 5+ years of experience, passionate about creating websites from start to finish. Imagine your website shining with stunning designs and smooth functionality – that's my goal! I specialize in both frontend and backend development, meaning I can bring your website dreams to life.
 
-You can connect with me via [LinkedIn](https://www.linkedin.com/in/zahidh1626/) or [Twitter](https://twitter.com/zahidh1626).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new tech gadgets and staying updated with the latest trends in technology.
+Co founder at [CodePem](http://codepem.com). Explore some of the features on [CodePem](http://codepem.com):
 
-Explore some of the features on [CodePem](http://codepem.com):
-
+- [Github Projects](https://codepem.com/projects) 💻: Get Various code snippets from other developers.
 - [CSS Generators](https://codepem.com/css-generator) 🎨: Easily create custom styles for your projects.
 - [Custom Border Generator](https://codepem.com/css-generator/css-border-generator) 📏: Design and generate unique borders for your elements.
 - [Gradient Generator](https://codepem.com/css-generator/gradient-generator) 🌈: Create beautiful gradients for backgrounds and more.
