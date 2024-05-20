@@ -3,7 +3,7 @@
 
 Hello! I'm a MERN-Stack Engineer with 5+ years of experience, passionate about creating websites from start to finish. Imagine your website shining with stunning designs and smooth functionality – that's my goal! I specialize in both frontend and backend development, meaning I can bring your website dreams to life.
 
-Co founder at [CodePem](http://codepem.com). Explore some of the features on [CodePem](http://codepem.com):
+##### I am the mastermind behind [CodePem](http://codepem.com). Explore some of the features on [CodePem](http://codepem.com):
 
 - [Github Projects](https://codepem.com/projects) 💻: Get Various code snippets from other developers.
 - [CSS Generators](https://codepem.com/css-generator) 🎨: Easily create custom styles for your projects.
